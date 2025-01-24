@@ -1,0 +1,17 @@
+bitarray==2.9.2
+bitstring==4.1.4
+cffi==1.16.0
+cryptography==42.0.5
+ecdsa==0.19.0
+esptool==4.7.0
+intelhex==2.3.0
+mysql-connector-python==8.4.0
+pycparser==2.22
+pyserial==3.5
+PyYAML==6.0.1
+reedsolo==1.7.0
+six==1.16.0
+tomli==2.0.1
+twisted-iocpsupport==1.0.4
+typing_extensions==4.12.2
+vboxapi==1.0
